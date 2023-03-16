@@ -1,0 +1,12 @@
+diff --git a/src/midi_sequencer.hpp b/src/midi_sequencer.hpp
+index 5e7ecc7..1899eec 100644
+--- a/src/midi_sequencer.hpp
++++ b/src/midi_sequencer.hpp
+@@ -38,6 +38,7 @@
+ 
+ class BW_MidiSequencer
+ {
++public:
+     /**
+      * @brief MIDI Event utility container
+      */
