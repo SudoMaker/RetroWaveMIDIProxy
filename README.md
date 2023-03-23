@@ -1,4 +1,5 @@
 # RetroWaveMIDIProxy
+[![CMake](https://github.com/SudoMaker/RetroWaveMIDIProxy/actions/workflows/cmake.yml/badge.svg)](https://github.com/SudoMaker/RetroWaveMIDIProxy/actions/workflows/cmake.yml)
 
 ## Description
 RetroWaveMIDIProxy is a software tool that connects modern DAWs and MIDI keyboards to RetroWave OPL3 hardware sound cards, allowing users to create authentic, vintage sounds in real-time. This software acts as a MIDI proxy, translating MIDI input into OPL3 commands that can be sent to the hardware synthesizer.
