@@ -41,7 +41,7 @@ CPMAddPackage(
 CPMAddPackage(
         NAME rtmidi
         GITHUB_REPOSITORY thestk/rtmidi
-        GIT_TAG 806e18f575b68c23b26f9398e1b6866b335b5308
+        GIT_TAG 6.0.0
         GIT_SHALLOW ON
 )
 
